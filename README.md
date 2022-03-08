@@ -35,7 +35,7 @@ ascuchiii -w 100
 ```
 
 <div align="center">
-    <img alt="usage" src="ascuchiii.gif" />
+    <img alt="usage" src="cuchi.gif" />
 </div>
 
 
