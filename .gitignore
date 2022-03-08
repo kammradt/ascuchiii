@@ -1,0 +1,4 @@
+.idea/
+pids/
+Gemfile.lock
+*.gem
