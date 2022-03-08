@@ -50,6 +50,6 @@ module Ascuchiii
   def self.show
     Artii::Base.new.asciify(words.sample)
 
-    AsciiArt.new("#{url}/#{images.sample}").to_ascii_art(parse_img_args)
+    AsciiArt.new("#{url}/#{images.sample}?raw=true").to_ascii_art(parse_img_args)
   end
 end
